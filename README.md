@@ -13,8 +13,6 @@ Hi there! I'm Subrat, a passionate cybersecurity student with a focus on **Cyber
 ## 🔭 What I’m Currently Doing
 - 👨‍💻 Dedicated to continuously practising and gaining knowledge in **Cybersecurity** and **Offensive security**.
 - 🛡️ Actively exploring tools and techniques in **Penetration testing**, **Network security**, and **Ethical hacking** to strengthen my expertise and practical skills in cybersecurity.
-- 🌐 Developing a **Python-based Network Vulnerability Scanner** to automate penetration testing tasks. 
-- ⚔️ Working on a **Python-based Network Stress Testing Tool** to understand and analyze Distributed Denial of Service attack patterns and mitigation strategies.
   
 ---
 
