@@ -24,7 +24,7 @@ Hi there! I'm Subrat, a passionate cybersecurity student with a focus on **Cyber
 
 ## 📫 Let’s Connect  
 - ✉️ **Email**: [subratsamantaray43@gmail.com](mailto:subratsamantaray43@gmail.com)  
-- 💼 **LinkedIn**: [linkedin.com/in/subrat-samantaray](www.linkedin.com/in/subrat243)  
+- 💼 **LinkedIn**: [linkedin.com/in/subrat-samantaray](www.linkedin.com/in/subrat-samantaray-583433255)  
 ---
 
 🚀 *Passionate about securing the digital world, one system at a time!*  
