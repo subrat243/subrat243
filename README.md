@@ -9,7 +9,7 @@
 
 ### **🏴‍☠️ TryHackMe Profile**
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/0xKaizen.png)](https://tryhackme.com/p/0xKaizen)
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/0xKaizen.png?update=2)](https://tryhackme.com/p/0xKaizen)
 
 ---
 
