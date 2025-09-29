@@ -1,4 +1,4 @@
-# 💫 About Me
+## 💫 About Me
 
 🔐 I’m currently diving deep into **advanced penetration testing**, **red team operations**, and **cyber threat intelligence**.
 🎯 Passionate about **offensive security**, building ethical hacking tools, and learning through **CTFs and real-world labs**.
@@ -9,11 +9,11 @@
 
 ### **🏴‍☠️ TryHackMe Profile**
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/0xKaizen.png?update=2)](https://tryhackme.com/p/0xKaizen)
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/0xKaizen.png?update=0)](https://tryhackme.com/p/0xKaizen)
 
 ---
 
-# 🌐 Socials
+## 🌐 Socials
 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X\&logoColor=white)](https://x.com/0xSubrat)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/subrat243)
@@ -21,7 +21,7 @@
 
 ---
 
-# 🧰 Tech Stack
+## 🧰 Tech Stack
 
 ### **🖥️ Platforms & OS**
 
