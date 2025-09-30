@@ -23,13 +23,10 @@
 
 ## 🧰 Tech Stack
 
-### **🖥️ Platforms & OS**
-
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge\&logo=linux\&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-%23000000.svg?style=for-the-badge\&logo=kalilinux\&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-%234285F4.svg?style=for-the-badge\&logo=windows\&logoColor=white)
 ![Windows PowerShell](https://img.shields.io/badge/PowerShell-%235555FF.svg?style=for-the-badge\&logo=powershell\&logoColor=white)
-
-### **🔧 Tools & Frameworks**
 
 ![Nmap](https://img.shields.io/badge/Nmap-%2300599C.svg?style=for-the-badge\&logo=nmap\&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-%231674A4.svg?style=for-the-badge\&logo=wireshark\&logoColor=white)
@@ -37,9 +34,6 @@
 ![Metasploit](https://img.shields.io/badge/Metasploit-%231C1C1C.svg?style=for-the-badge\&logo=metasploit\&logoColor=white)
 ![Wazuh](https://img.shields.io/badge/Wazuh-0050F2.svg?style=for-the-badge\&logo=wazuh\&logoColor=white)
 
-### **💡 Skills & Domains**
-
-![Linux CLI](https://img.shields.io/badge/Linux%20CLI-%23000000.svg?style=for-the-badge\&logo=terminal\&logoColor=white)
 ![Computer Networks](https://img.shields.io/badge/Computer%20Networks-%234285F4.svg?style=for-the-badge\&logo=cloudflare\&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-%23FF385C.svg?style=for-the-badge\&logo=hackthebox\&logoColor=white)
 ![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-%23DD0031.svg?style=for-the-badge\&logo=protonvpn\&logoColor=white)
