@@ -1,43 +1,55 @@
-## 💫 About Me
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=800&color=00FF41&center=true&vCenter=true&width=800&lines=$+whoami;$+Subrat+Samantaray;$+Cybersecurity+Enthusiast;$+Penetration+Tester;$+Red+Teamer;$+echo+%22Learning+Never+Stops%22" />
+</p>
 
+<p align="center">
+  <img src="https://i.pinimg.com/originals/dc/3e/cd/dc3ecdab0fa15f3bd29d1e20718648e6.gif" width="100%" />
+</p>
+
+<table>
+<tr>
+<td width="60%" align="center">
+
+## About Me
 🔐 I’m currently diving deep into **advanced penetration testing**, **red team operations**, and **cyber threat intelligence**.
 🎯 Passionate about **offensive security**, building ethical hacking tools, and learning through **CTFs and real-world labs**.
 
-![subrat-banner](https://i.pinimg.com/originals/04/2a/66/042a6606ce977ec8e80a2eecf223d320.gif) <!-- Replace this with your own image or banner if needed -->
+</td>
 
----
+<td width="40%" align="center">
 
-### **🏴‍☠️ TryHackMe Profile**
+## TryHackMe Profile
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/0xKaizen.png?update=0)](https://tryhackme.com/p/0xKaizen)
+![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/0xKaizen.png?update=1)
 
----
+</td>
+</tr>
+</table>
 
-## 🌐 Socials
+<h2 align="center">Tech Stack</h2>
 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X\&logoColor=white)](https://x.com/0xSubrat)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/subrat243)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:subratsamantaray43@gmail.com)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,kali,windows,python,c,java,bash,powershell,git,github,vim,md" />
+  </a>
+</p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&pause=700&color=FFFFFF&center=true&vCenter=true&width=1200&lines=Nmap+|+Wireshark+|+Metasploit+|+Burp+Suite+|+Nessus+|+Nikto+|+Hydra+|+Nuclei;ARPScan+|+TCPDump+|+Netcat+|+Netdiscover+|+Proxychains+|+Wafw00f;Dirb+|+FFUF+|+Gobuster+|+Fierce+|+Fping;Dig+|+DNSenum+|+DNSrecon+|+theHarvester+|+Enum4linux+|+SMBmap;Sublist3r+|+Subfinder+|+John+The+Ripper+|+SEToolkit+|+SSH+|+Telnet+|+WSL" />
+</p>
 
-## 🧰 Tech Stack
+<h2 align="center">Contact Me</h3>
 
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge\&logo=linux\&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-%23000000.svg?style=for-the-badge\&logo=kalilinux\&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-%234285F4.svg?style=for-the-badge\&logo=windows\&logoColor=white)
-![Windows PowerShell](https://img.shields.io/badge/PowerShell-%235555FF.svg?style=for-the-badge\&logo=powershell\&logoColor=white)
+<p align="center">
+  <a href="mailto:subratsamantaray43@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://x.com/0xSubrat">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  <a href="https://linkedin.com/in/subrat243">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
 
-![Nmap](https://img.shields.io/badge/Nmap-%2300599C.svg?style=for-the-badge\&logo=nmap\&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-%231674A4.svg?style=for-the-badge\&logo=wireshark\&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-F47F24?style=for-the-badge\&logo=burpsuite\&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-%231C1C1C.svg?style=for-the-badge\&logo=metasploit\&logoColor=white)
-![Wazuh](https://img.shields.io/badge/Wazuh-0050F2.svg?style=for-the-badge\&logo=wazuh\&logoColor=white)
-
-![Computer Networks](https://img.shields.io/badge/Computer%20Networks-%234285F4.svg?style=for-the-badge\&logo=cloudflare\&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-%23FF385C.svg?style=for-the-badge\&logo=hackthebox\&logoColor=white)
-![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-%23DD0031.svg?style=for-the-badge\&logo=protonvpn\&logoColor=white)
-
----
-
-🚀 *"Securing the digital frontier through knowledge, tools, and relentless curiosity."*
+<p align="center"><b>Learn • Hack • Secure</b></p>
