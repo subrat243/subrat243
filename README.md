@@ -3,7 +3,7 @@
 🔐 I’m currently diving deep into **advanced penetration testing**, **red team operations**, and **cyber threat intelligence**.
 🎯 Passionate about **offensive security**, building ethical hacking tools, and learning through **CTFs and real-world labs**.
 
-![subrat-banner](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif) <!-- Replace this with your own image or banner if needed -->
+![subrat-banner](https://i.pinimg.com/originals/04/2a/66/042a6606ce977ec8e80a2eecf223d320.gif) <!-- Replace this with your own image or banner if needed -->
 
 ---
 
