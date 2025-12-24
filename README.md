@@ -11,8 +11,7 @@
 <td width="60%" align="center">
 
 ## About Me
-🔐 I’m currently diving deep into **advanced penetration testing**, **red team operations**, and **cyber threat intelligence**.
-🎯 Passionate about **offensive security**, building ethical hacking tools, and learning through **CTFs and real-world labs**.
+I'm a Cybersecurity Enthusiast driven by curiosity and hands-on hacking. Focused on offensive security, penetration testing, web security, network security, and understanding how systems break — and how to secure them better. Constantly learning through labs, CTFs, and real-world tools.
 
 </td>
 
