@@ -29,7 +29,7 @@ I'm a Cybersecurity Enthusiast driven by curiosity and hands-on hacking. Focused
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,kali,windows,python,c,java,bash,powershell,git,github,vim,md" />
+    <img src="https://skillicons.dev/icons?i=linux,kali,windows,python,c,java,bash,git,github,vim,md" />
   </a>
 </p>
 
