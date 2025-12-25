@@ -19,7 +19,7 @@ I'm a Cybersecurity Enthusiast driven by curiosity and hands-on hacking. Focused
 
 ## TryHackMe Profile
 
-![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/0xKaizen.png?update=1)
+![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/0xKaizen.png?update=2)
 
 </td>
 </tr>
