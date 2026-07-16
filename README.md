@@ -72,18 +72,18 @@ I enjoy exploring how systems work, discovering security weaknesses, and buildin
     height="180"
     alt="GitHub Stats"
   />
-  <img
-    src="https://streak-stats.demolab.com/?user=subrat243&theme=catppuccin_mocha&hide_border=false"
+    <img
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=subrat243&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
     height="180"
-    alt="GitHub Streak"
+    alt="Top Languages"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.shion.dev/api/top-langs/?username=subrat243&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+    src="https://streak-stats.demolab.com/?user=subrat243&theme=catppuccin_mocha&hide_border=false"
     height="180"
-    alt="Top Languages"
+    alt="GitHub Streak"
   />
 </p>
 
