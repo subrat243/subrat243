@@ -13,7 +13,7 @@
   <img
     align="right"
     width="280"
-    src="https://github-readme-cyber-quotes.vercel.app/api?type=vertical&theme=catppuccin_mocha"
+    src="https://github-readme-cyber-quotes.vercel.app/api?type=vertical&theme=dracula"
   />
 
 
@@ -22,8 +22,9 @@
 > I'm a learner, I enjoy exploring how systems work, discovering security weaknesses, and building practical solutions to improve them. My interests include Penetration Testing, Web Application Security, Linux, and Networking. Whether I'm solving CTF challenges, or experimenting in lab environments, I'm always learning something new and striving to become a better security professional.
 
 Current focus:
-  - Web Application Security
   - Offensive Security
+  - Network Security
+  - Web Application Security
 
 </div>
 
@@ -34,7 +35,7 @@ Current focus:
 {
 
   "config": {
-    "linux": "Linux is my home. The terminal is where ideas become scripts.",
+    "linux": "Linux is my zone. The terminal is where ideas become scripts.",
     "mindset": "Attack. Understand. Secure. Repeat.",
     "automation": "If it feels repetitive, script it.",
     "fuel": "Coffee, packet captures, and late-night enumeration."
