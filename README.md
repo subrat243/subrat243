@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=800&color=FFFFFF&center=true&vCenter=true&width=800&lines=Cybersecurity+Explorer;Penetration+Tester;Red+Teamer;Security+Researcher;Security+Analyst%22" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=800&color=FFFFFF&center=true&vCenter=true&width=800&lines=Cybersecurity+Explorer;Penetration+Tester;Red+Teamer;Security+Researcher;Security+Analyst" />
 </p>
 
 <div style="clear: both;">
@@ -17,9 +17,13 @@
   />
 
 
-> *"Question assumptions. Validate findings. Secure the future."*
+**Namaste, I'm Subrat Samantaray...**
 
-I enjoy exploring how systems work, discovering security weaknesses, and building practical solutions to improve them. My interests include penetration testing, web application security, Linux, networking, and automation. Whether I'm solving CTF challenges, developing security tools, or experimenting in lab environments, I'm always learning something new and striving to become a better security professional.
+> I'm a learner, I enjoy exploring how systems work, discovering security weaknesses, and building practical solutions to improve them. My interests include Penetration Testing, Web Application Security, Linux, and Networking. Whether I'm solving CTF challenges, or experimenting in lab environments, I'm always learning something new and striving to become a better security professional.
+
+Current focus:
+  - Web Application Security
+  - Offensive Security
 
 </div>
 
@@ -49,7 +53,7 @@ I enjoy exploring how systems work, discovering security weaknesses, and buildin
   "return": {
     "status": "success",
     "code": 0,
-    "message": "Happy Hacking!"
+    "message": "Hack Responsibly!"
   }
 }
 ```
@@ -60,20 +64,28 @@ I enjoy exploring how systems work, discovering security weaknesses, and buildin
     <img src="https://skillicons.dev/icons?i=linux,kali,windows,python,c,java,bash,vim,md" />
   </a>
 </p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&pause=1200&color=FFFFFF&center=true&vCenter=true&width=1200&lines=Nmap+|+Burp+Suite+|+Metasploit+|+Wireshark+|+Nessus;FFUF+|+Gobuster+|+Subfinder+|+Katana+|+httpx;SQLMap+|+Amass+|+Hydra+|+John+The+Ripper+|+Hashcat;Nuclei+|+theHarvester+|+Nikto+|+Netcat+|+tcpdump;Suricata+|+Splunk+|+Wazuh+|+Snort" />
-</p>
+
+```console
+kaizen@kali:~$ apt list --installed | grep security
+
+Burp Suite      • Nmap             • Wireshark        • Metasploit       • Nessus           • Nuclei
+FFUF            • SQLMap           • Subfinder        • Amass            • Katana           • httpx
+Hashcat         • John the Ripper  • Hydra            • Netcat           • tcpdump          • Suricata
+Splunk          • Wazuh
+
+[SUCCESS] Tools listed successfully.
+```
 
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.shion.dev/api?username=subrat243&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true"
-    height="180"
+    src="https://github-readme-stats.shion.dev/api?username=subrat243&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true"
+    height="165"
     alt="GitHub Stats"
   />
     <img
-    src="https://github-readme-stats.shion.dev/api/top-langs/?username=subrat243&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=subrat243&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
     height="180"
     alt="Top Languages"
   />
@@ -81,7 +93,7 @@ I enjoy exploring how systems work, discovering security weaknesses, and buildin
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=subrat243&theme=catppuccin_mocha&hide_border=false"
+    src="https://streak-stats.demolab.com/?user=subrat243&theme=catppuccin_mocha&hide_border=true"
     height="180"
     alt="GitHub Streak"
   />
@@ -104,5 +116,5 @@ I enjoy exploring how systems work, discovering security weaknesses, and buildin
 <p align="center"><b>"Every vulnerability has a story. I enjoy finding it before an attacker does."</b></p>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=89B4FA&height=100&section=footer" width="100%"/>
 </div>
