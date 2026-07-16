@@ -1,28 +1,94 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=800&color=00FF41&center=true&vCenter=true&width=800&lines=$+whoami;$+Subrat+Samantaray;$+Cybersecurity+Enthusiast;$+Penetration+Tester;$+Red+Teamer;$+echo+%22Learning+Never+Stops%22" />
-</p>
-<p align="center">
-  <img src="https://i.pinimg.com/originals/dc/3e/cd/dc3ecdab0fa15f3bd29d1e20718648e6.gif" width="100%" />
+  <img src="https://i.pinimg.com/originals/3c/31/c8/3c31c8503d9e31400e96d4b90b93c141.gif" width="100%" />
 </p>
 
-<h2 align="center">About Me</h2>
 <p align="center">
-I enjoy breaking systems to understand how to secure them. My primary focus is offensive security, with an emphasis on penetration testing, web application security, and network security. I learn by building, testing, and attacking lab environments, solving CTF challenges, and working with real-world security tools.
-<br><br>
-I believe every vulnerability tells a story. Understanding why it exists and how it can be exploited helps me better understand how to defend against it. My goal is to continuously improve my offensive security skills while developing a strong defensive mindset through practical, hands-on experience.
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=800&color=FFFFFF&center=true&vCenter=true&width=800&lines=Cybersecurity+Explorer;Penetration+Tester;Red+Teamer;Security+Researcher;Security+Analyst%22" />
 </p>
 
-<h2 align="center">Tech Stack</h2>
+<div style="clear: both;">
+  
+## 🧑‍💻 About Me
+  
+  <img
+    align="right"
+    width="280"
+    src="https://github-readme-cyber-quotes.vercel.app/api?type=vertical&theme=catppuccin_mocha"
+  />
+
+
+> *"Question assumptions. Validate findings. Secure the future."*
+
+I enjoy exploring how systems work, discovering security weaknesses, and building practical solutions to improve them. My interests include penetration testing, web application security, Linux, networking, and automation. Whether I'm solving CTF challenges, developing security tools, or experimenting in lab environments, I'm always learning something new and striving to become a better security professional.
+
+</div>
+
+<br clear="right"/>
+<p>&nbsp;</p>
+
+```json
+{
+
+  "config": {
+    "linux": "Linux is my home. The terminal is where ideas become scripts.",
+    "mindset": "Attack. Understand. Secure. Repeat.",
+    "automation": "If it feels repetitive, script it.",
+    "fuel": "Coffee, packet captures, and late-night enumeration."
+  },
+
+  "rules": {
+    "zero_trust": true,
+    "sudo": "Use only when necessary.",
+    "rm_rf": "Think twice.",
+    "grep": "Your best debugging partner.",
+    "logs": "The truth is always in the logs."
+  },
+
+  "current_objective": "Keep learning. Keep building. Keep securing."
+
+  "return": {
+    "status": "success",
+    "code": 0,
+    "message": "Happy Hacking!"
+  }
+}
+```
+
+<h2 align="center">🛠️ Arsenal</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,kali,windows,python,c,java,bash,git,github,vim,md" />
+    <img src="https://skillicons.dev/icons?i=linux,kali,windows,python,c,java,bash,vim,md" />
   </a>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&pause=700&color=FFFFFF&center=true&vCenter=true&width=1200&lines=Nmap+|+Wireshark+|+Metasploit+|+Burp+Suite+|+Nessus+|+Nikto+|+Hydra+|+Nuclei;ARPScan+|+TCPDump+|+Netcat+|+Netdiscover+|+Proxychains+|+Wafw00f;Dirb+|+FFUF+|+Gobuster+|+Fierce+|+Fping;Dig+|+DNSenum+|+DNSrecon+|+theHarvester+|+Enum4linux+|+SMBmap;Sublist3r+|+Subfinder+|+John+The+Ripper+|+SEToolkit+|+SSH+|+Telnet+|+WSL" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&pause=1200&color=FFFFFF&center=true&vCenter=true&width=1200&lines=Nmap+|+Burp+Suite+|+Metasploit+|+Wireshark+|+Nessus;FFUF+|+Gobuster+|+Subfinder+|+Katana+|+httpx;SQLMap+|+Amass+|+Hydra+|+John+The+Ripper+|+Hashcat;Nuclei+|+theHarvester+|+Nikto+|+Netcat+|+tcpdump;Suricata+|+Splunk+|+Wazuh+|+Snort" />
 </p>
 
-<h2 align="center">Contact Me</h2>
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.shion.dev/api?username=subrat243&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true"
+    height="180"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://streak-stats.demolab.com/?user=subrat243&theme=catppuccin_mocha&hide_border=false"
+    height="180"
+    alt="GitHub Streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=subrat243&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+    height="180"
+    alt="Top Languages"
+  />
+</p>
+
+
+<h2 align="center">🌐 Contact Me</h2>
 <p align="center">
   <a href="mailto:subratsamantaray43@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
@@ -35,4 +101,8 @@ I believe every vulnerability tells a story. Understanding why it exists and how
   </a>
 </p>
 
-<p align="center"><b>Learn • Hack • Secure</b></p>
+<p align="center"><b>"Every vulnerability has a story. I enjoy finding it before an attacker does."</b></p>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=100&section=footer" width="100%"/>
+</div>
