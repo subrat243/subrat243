@@ -19,7 +19,7 @@
 
 **Namaste, I'm Subrat Samantaray...**
 
-> I'm a learner, I enjoy exploring how systems work, discovering security weaknesses, and building practical solutions to improve them. My interests include Penetration Testing, Web Application Security, Linux, and Networking. Whether I'm solving CTF challenges, or experimenting in lab environments, I'm always learning something new and striving to become a better security professional.
+> I'm a learner, I enjoy exploring how systems work, discovering security weaknesses, and building practical solutions to improve them. Whether I'm solving CTF challenges, or experimenting in lab environments, I'm always learning something new and striving to become a better security professional.
 
 Current focus:
   - Offensive Security
@@ -30,34 +30,6 @@ Current focus:
 
 <br clear="right"/>
 <p>&nbsp;</p>
-
-```json
-{
-
-  "config": {
-    "linux": "Linux is my zone. The terminal is where ideas become scripts.",
-    "mindset": "Attack. Understand. Secure. Repeat.",
-    "automation": "If it feels repetitive, script it.",
-    "fuel": "Coffee, packet captures, and late-night enumeration."
-  },
-
-  "rules": {
-    "zero_trust": true,
-    "sudo": "Use only when necessary.",
-    "rm_rf": "Think twice.",
-    "grep": "Your best debugging partner.",
-    "logs": "The truth is always in the logs."
-  },
-
-  "current_objective": "Keep learning. Keep building. Keep securing."
-
-  "return": {
-    "status": "success",
-    "code": 0,
-    "message": "Hack Responsibly!"
-  }
-}
-```
 
 <h2 align="center">🛠️ Arsenal</h2>
 <p align="center">
