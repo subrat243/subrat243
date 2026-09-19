@@ -3,12 +3,12 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=800&color=FFFFFF&center=true&vCenter=true&width=800&lines=Cybersecurity+Explorer;Penetration+Tester;Red+Teamer;Security+Researcher;Security+Analyst" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=800&color=FFFFFF&center=true&vCenter=true&width=800&lines=Penetration+Tester;Red+Teamer;Security+Researcher;Security+Analyst" />
 </p>
 
 <div style="clear: both;">
-  
-## 🧑‍💻 About Me
+
+<h2 align="center">🧑‍💻 About Me</h2>
   
   <img
     align="right"
@@ -34,7 +34,7 @@ Current focus:
 <h2 align="center">🛠️ Arsenal</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,kali,windows,python,c,java,bash,vim,md" />
+    <img src="https://skillicons.dev/icons?i=linux,kali,windows,bash,python,c,java,md,vim" />
   </a>
 </p>
 
@@ -53,7 +53,7 @@ Splunk          • Wazuh
 
 <p align="center">
   <img
-    src="https://github-readme-stats.shion.dev/api?username=subrat243&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true"
+    src="https://streak-stats.demolab.com/?user=subrat243&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true"
     height="165"
     alt="GitHub Stats"
   />
@@ -61,14 +61,6 @@ Splunk          • Wazuh
     src="https://github-readme-stats.shion.dev/api/top-langs/?username=subrat243&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
     height="180"
     alt="Top Languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=subrat243&theme=catppuccin_mocha&hide_border=true"
-    height="180"
-    alt="GitHub Streak"
   />
 </p>
 
@@ -83,6 +75,9 @@ Splunk          • Wazuh
   </a>
   <a href="https://linkedin.com/in/subrat243">
     <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://discord.com/users/954625259582132255">
+    <img src="https://skillicons.dev/icons?i=discord" />
   </a>
 </p>
 
