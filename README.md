@@ -4,7 +4,7 @@
 
 <div style="clear: both;">
 
-<h2 align="center">Namaste, I'm Subrat Samantaray...</h2>
+<h2 align="center">Namaste, I'm Subrat Samantaray👋</h2>
   
   <img
     align="right"
@@ -12,7 +12,7 @@
     src="https://github-readme-cyber-quotes.vercel.app/api?type=vertical&theme=dracula"
   />
 
-> I'm a cybersecurity learner, I enjoy exploring how systems work, discovering security weaknesses, and building practical solutions to improve them. Whether I'm solving CTF challenges, or experimenting in lab environments, I'm always learning something new and striving to become a better security professional.
+>  - **I'm a cybersecurity learner, Penetration Tester, Security Analyst and Security Researcher**
 
 Current focus:
   - Web Application Security
@@ -24,7 +24,7 @@ Current focus:
 <br clear="right"/>
 <p>&nbsp;</p>
 
-<h2 align="center">🛠️ Arsenal</h2>
+<h2 align="center">🛠️ Tools & Tech Stack</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,kali,windows,bash,python,c,java,md,vim" />
