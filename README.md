@@ -14,10 +14,13 @@
 
 >  - **I'm a cybersecurity learner, Penetration Tester, Security Analyst and Security Researcher**
 
-Current focus:
+**Currently exploring:**
   - Web Application Security
   - Network Security
   - Cloud Security
+  - Red/Blue Teaming
+
+**Outside of that:** CTFs, homelabs, security projects, and breaking things in controlled environments. 😄
 
 </div>
 
