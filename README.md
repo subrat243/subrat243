@@ -12,15 +12,17 @@
     src="https://github-readme-cyber-quotes.vercel.app/api?type=vertical&theme=dracula"
   />
 
->  - **I'm a cybersecurity learner, Penetration Tester, Security Analyst and Security Researcher**
+**A Cybersecurity learner focused on Penetration Testing, Security Analysis and Security Researcher**
+
+> **Just another human trying to understand computers.**
 
 **Currently exploring:**
   - Web Application Security
   - Network Security
   - Cloud Security
-  - Red/Blue Teaming
 
-**Outside of that:** CTFs, homelabs, security projects, and breaking things in controlled environments. 😄
+**Outside of that:** CTFs, homelabs, security projects, and breaking things in controlled environments.
+
 
 </div>
 
@@ -76,8 +78,6 @@ Splunk          • Wazuh
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
 </p>
-
-<p align="center"><b>"Every vulnerability has a story. I enjoy finding it before an attacker does."</b></p>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=89B4FA&height=100&section=footer" width="100%"/>
