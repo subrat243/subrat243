@@ -2,10 +2,6 @@
   <img src="https://i.pinimg.com/originals/3c/31/c8/3c31c8503d9e31400e96d4b90b93c141.gif" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=800&color=FFFFFF&center=true&vCenter=true&width=800&lines=Penetration+Tester;Red+Teamer;Security+Researcher;Security+Analyst" />
-</p>
-
 <div style="clear: both;">
 
 <h2 align="center">🧑‍💻 About Me</h2>
@@ -15,7 +11,6 @@
     width="280"
     src="https://github-readme-cyber-quotes.vercel.app/api?type=vertical&theme=dracula"
   />
-
 
 **Namaste, I'm Subrat Samantaray...**
 
