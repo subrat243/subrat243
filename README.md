@@ -4,7 +4,7 @@
 
 <div style="clear: both;">
 
-<h2 align="center">Namaste, I'm Subrat Samantaray👋</h2>
+<h1 align="center">Namaste, I'm Subrat Samantaray👋</h1>
   
   <img
     align="right"
