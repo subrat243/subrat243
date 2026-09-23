@@ -12,7 +12,7 @@
     src="https://github-readme-cyber-quotes.vercel.app/api?type=vertical&theme=dracula"
   />
 
-**A Cybersecurity learner focused on Penetration Testing, Security Analysis and Security Researcher**
+**A Cybersecurity learner focused on Penetration Testing, Security Analysis and Security Research**
 
 > **Just another human trying to understand computers.**
 
